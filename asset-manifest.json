@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/simplestorage/static/css/main.b1bd019e.chunk.css",
+    "main.js": "/simplestorage/static/js/main.132e1a27.chunk.js",
+    "main.js.map": "/simplestorage/static/js/main.132e1a27.chunk.js.map",
+    "runtime-main.js": "/simplestorage/static/js/runtime-main.96e04285.js",
+    "runtime-main.js.map": "/simplestorage/static/js/runtime-main.96e04285.js.map",
+    "static/js/2.7e608550.chunk.js": "/simplestorage/static/js/2.7e608550.chunk.js",
+    "static/js/2.7e608550.chunk.js.map": "/simplestorage/static/js/2.7e608550.chunk.js.map",
+    "static/js/3.e8e505d0.chunk.js": "/simplestorage/static/js/3.e8e505d0.chunk.js",
+    "static/js/3.e8e505d0.chunk.js.map": "/simplestorage/static/js/3.e8e505d0.chunk.js.map",
+    "index.html": "/simplestorage/index.html",
+    "static/css/main.b1bd019e.chunk.css.map": "/simplestorage/static/css/main.b1bd019e.chunk.css.map",
+    "static/js/2.7e608550.chunk.js.LICENSE.txt": "/simplestorage/static/js/2.7e608550.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96e04285.js",
+    "static/js/2.7e608550.chunk.js",
+    "static/css/main.b1bd019e.chunk.css",
+    "static/js/main.132e1a27.chunk.js"
+  ]
+}
